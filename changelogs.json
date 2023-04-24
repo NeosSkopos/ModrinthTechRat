@@ -1,0 +1,5 @@
+{
+  "15": {
+    "changelog": "Added Mods:\r\n\r\n- Traveler\u0027s Backpack - customisable backpacks with liquid storage, abilities, etc.\r\n- Cloud Boots - negates fall damage and gives jump boost. (For when Steampunk Boots no longer give enough protection.)\r\n- Modpack Update Checker - will inform you when a new modpack version is out.\r\n- Icarus - Elytra based mod\r\n\r\nRemoved Mods:\r\n\r\n- CraftPresence - Didn\u0027t really find much use of this in Discord and it was one extra shortcut conflict to maintain.\r\n- Companion - The teleporting of pets caused my pets to do when going to the Nether.\r\n- Utility Belt - Was just causing way too many crashes. Traveler\u0027s Backpack can do some of the tool swopping features instead.\r\n\r\nUpdated other mods to their latest versions.\r\nNB: you might need to delete your configs for this one, as some of the mod updates this time conflict with their older config files.\r\n"
+  }
+}
