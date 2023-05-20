@@ -1,0 +1,21 @@
+{
+    "versionName" : "18",
+    "versionCode" : 25565,
+    "versionFormat" : "%versionName% or %versionCode%",
+    "updateURL" : {
+        "en_us" : "https://modrinth.com/modpack/modrinthtechrat"
+    },
+        "changelogs" : {
+        "18" : [
+            "Add version checking! :D"
+        ],
+        "17" : [
+            "Added many interface upgrades, like AutoHUD, Jingle, Slot Cycler and Switcheroo"
+        ]
+    },
+    "welcomeMessage" : {
+        "tag" : ["awa1"],
+        "tag2" : ["awa2"],
+        "tag3" : ["advancements.story.mine_stone.title"]
+    }
+}
